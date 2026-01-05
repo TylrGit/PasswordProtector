@@ -6,8 +6,8 @@
   <img alt="Framework: JavaFX" src="https://img.shields.io/badge/JavaFX-%23ED8B00.svg?logo=openjdk&logoColor=white" />
   <img alt="Database: MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
   <img alt="Version: 1.0.0" src="https://img.shields.io/badge/version-1.0.0-blue" />
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-All Rights Reserved-red" />
   <img alt="Platform: Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue" />
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-All Rights Reserved-red" />
 </p>
 
 # Password Protector
